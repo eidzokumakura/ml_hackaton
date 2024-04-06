@@ -1,0 +1,8 @@
+path: C:\Users\anlok\PycharmProjects\ml_hackaton\src\video1_content\dataset
+train: train
+val: val
+test: val
+
+names:
+  0: stand
+  1: lie
